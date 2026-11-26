@@ -24,7 +24,7 @@ Build and compare five classification models – Logistic Regression, Decision T
 ![class distribution](images/class_distribution.png)
 
 ## 3. GitHub repository link
-<PASTE YOUR REPOSITORY URL HERE>
+https://github.com/saswata-bits/2026ct05022-ML-Assignment2
 
 Repository contents: `ML_Assignment2.ipynb` (complete source code), `requirements.txt`, `README.md`, `test_data.csv` (the 360-row test set used in the experiments), `metrics.csv`, `cv_accuracy.csv`, `model/` (the five trained pipelines, `.joblib`), `images/` (charts used below).
 
