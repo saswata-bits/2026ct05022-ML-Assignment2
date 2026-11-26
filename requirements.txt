@@ -1,4 +1,5 @@
-# Machine Learning Assignment 2 - 2026CT05022
+# Machine Learning Assignment 2
+# Bits Id: 2026CT05022
 # Tested with Python 3.14.6
 
 numpy==2.5.3
