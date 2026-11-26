@@ -89,4 +89,24 @@ All use `random_state=42` where applicable. Hyperparameters for Naive Bayes and 
 | **Overall** | On the test split Logistic Regression is best by 3 errors (10 vs 13), but that gap is small: in 5-fold CV, Random Forest (98.0%) and kNN (97.9%) are slightly ahead of Logistic Regression (97.1%), with fold standard deviations of 0.4–0.6 points. So the top three are practically tied; Decision Tree and Naive Bayes are clearly behind. Logistic Regression is the simplest and fastest of the top group. |
 
 ## 8. Screenshot – execution on BITS Virtual Lab
-<INSERT SCREENSHOT HERE: images/bits_lab_screenshot.png>
+
+### 1
+![BITS Virtual Lab Screenshot 1](Bits-Virtuallab-SS/Bits_Virtual_Lab_SS_1.png)
+
+### 2
+![BITS Virtual Lab Screenshot 2](Bits-Virtuallab-SS/Bits_Virtual_Lab_SS_2.png)
+
+### 3
+![BITS Virtual Lab Screenshot 3](Bits-Virtuallab-SS/Bits_Virtual_Lab_SS_3.png)
+
+### 4
+![BITS Virtual Lab Screenshot 4](Bits-Virtuallab-SS/Bits_Virtual_Lab_SS_4.png)
+
+### 5
+![BITS Virtual Lab Screenshot 5](Bits-Virtuallab-SS/Bits_Virtual_Lab_SS_5.png)
+
+### 6
+![BITS Virtual Lab Screenshot 6](Bits-Virtuallab-SS/Bits_Virtual_Lab_SS_6.png)
+
+### 7
+![BITS Virtual Lab Screenshot 7](Bits-Virtuallab-SS/Bits_Virtual_Lab_SS_7.png)
